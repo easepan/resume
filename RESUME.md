@@ -33,10 +33,10 @@
 ### 技能清单
 
 - 熟悉 `JavaEE` 开发，`SpringBoot`、`Spring`、`SringMVC`、`MyBatis`、`Hibernate`、`Struts2`框架
-- 熟悉 `Web` 前端开发，`Bootstrap`、`JQuery`、`Vue`、`Layer`框架
-- 了解 `C#`、`Python`，`Oracle`、`MySQL`数据库
-- 了解 `Linux` 常用命令，熟悉 `Vim` 编辑
-- 了解 `Redis`、`MongoDB`
+- 熟悉 `Web` 前端开发，`Bootstrap`、`JQuery`、`Vue`、`Layer`框架，微信小程序开发
+- 熟悉 `Ajax`、`RESTful API` 架构，`Maven` 项目构建、`Git` 版本控制
+- 了解 `C#`、`Python`，了解 `Redis`、`MongoDB`、`Oracle`，熟悉 `MySQL` 数据库
+- 了解 `Linux` 常用命令，熟悉 `Vim` 编辑，熟悉 `IntelliJ IDEA` 开发工具
 
 ### 自我评价
 
