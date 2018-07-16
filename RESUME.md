@@ -2,7 +2,7 @@
 
 - 手机：18180467126
 - QQ： 735817834
-- EMAIL：tao@zhazhapan.com
+- Email：tao@zhazhapan.com
 
 ### 个人信息
 
@@ -34,7 +34,7 @@
 
 - 熟悉 `JavaEE` 开发，`SpringBoot`、`Spring`、`SringMVC`、`MyBatis`、`Hibernate`、`Struts2`框架
 - 熟悉 `Web` 前端开发，`Bootstrap`、`JQuery`、`Vue`、`Layer`框架，微信小程序开发
-- 熟悉 `Ajax`、`RESTful API` 架构，`Maven` 项目构建、`Git` 版本控制
+- 熟悉 `AJAX`、`RESTful API` 架构，`Maven` 项目构建工具、`Git` 版本控制，数据库设计
 - 了解 `C#`、`Python`，了解 `Redis`、`MongoDB`、`Oracle`，熟悉 `MySQL` 数据库
 - 了解 `Linux` 常用命令，熟悉 `Vim` 编辑，熟悉 `IntelliJ IDEA` 开发工具
 
