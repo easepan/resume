@@ -8,7 +8,7 @@
 
 - 潘滔/男/1994/四川/汉
 - 本科/信息管理与信息系统/2018届/成都东软学院
-- **期望职位：JavaEE开发**
+- **期望职位：Java后端开发**
 - 技术博客：[https://blog.csdn.net/qq_26954773](https://blog.csdn.net/qq_26954773)
 - GitHub：[https://github.com/zhazhapan](https://github.com/zhazhapan)
 - 码云：[https://gitee.com/zhazhapan_admin](https://gitee.com/zhazhapan_admin)
@@ -32,7 +32,7 @@
 
 ### 技能清单
 
-- 熟悉 `JavaEE` 开发，`SpringBoot`、`Spring`、`SringMVC`、`MyBatis`、`Hibernate`、`Struts2`框架
+- 熟悉 `Java` 开发，`SpringBoot`、`SSH`、`SSM`、`Swagger`框架
 - 熟悉 `Web` 前端开发，`Bootstrap`、`JQuery`、`Vue`、`Layer`框架，微信小程序开发
 - 熟悉 `AJAX`、`RESTful API` 架构，`Maven` 项目构建工具、`Git` 版本控制，数据库设计
 - 了解 `C#`、`Python`，了解 `Redis`、`MongoDB`、`Oracle`，熟悉 `MySQL` 数据库
