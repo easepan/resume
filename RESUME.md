@@ -21,14 +21,13 @@
 
 - 成都赛果物联网技术有限公司（2018年4月 ~ 2018年6月）
 
-	`MySQL` 自动化备份 `Python`  脚本，搭建内网 `git` 和 `maven` 服务器，`otter` 实现数据库跨机房同步，开发 `ADB` 命令调试安卓进程的 `JavaFX` 工具，搭建腾讯视频云小直播后端服务器，开发 `API`，设计并开发微信小程序
+	`MySQL` 自动化备份 `Python`  脚本，搭建内网 `git` 和 `maven` 服务器，`otter` 实现数据库跨机房同步，使用 `JavaFX` 开发基于 `adb` 命令的安卓进程调试工具，搭建腾讯视频云小直播后端服务器，开发 `HTTP` 接口，设计并开发微信小程序
 
-### 开源项目与作品
+### 开源项目
 
 - [qiniu](https://gitee.com/code4everything/qiniu)：`JavaFX` 开发的七牛云对象存储管理工具
 - [visual-spider](https://gitee.com/code4everything/visual-spider)：基于 `crawler4j` 使用 `JavaFX` 开发的图形化网络爬虫
 - [efo](https://gitee.com/code4everything/efo)：使用SSM框架开发的线上文件管理系统，包括文件分享，文件上传，文件下载，远程文件管理
-- [homedb](https://homedb.net)：家庭（及个人）信息管理系统，包括家庭收入支出、债权债务，个人日程管理、收藏记录等功能
 
 ### 技能清单
 
