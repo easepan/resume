@@ -1,45 +1,46 @@
 ### 联系方式
 
-- 手机：18180467126
-- QQ： 735817834
+- Phone：18180467126
+- QQ/WeChat：735817834
 - Email：tao@zhazhapan.com
 
 ### 个人信息
 
 - 潘滔/男/1994/四川/汉
 - 本科/信息管理与信息系统/2018届/成都东软学院
-- **期望职位：Java后端开发**
-- 技术博客：[https://blog.csdn.net/qq_26954773](https://blog.csdn.net/qq_26954773)
+- 技术博客：[http://zhazhapan.github.io](http://zhazhapan.github.io)
 - GitHub：[https://github.com/zhazhapan](https://github.com/zhazhapan)
 - 码云：[https://gitee.com/zhazhapan_admin](https://gitee.com/zhazhapan_admin)
+- **期望职位：Java后端工程师**
+- 期望城市：成都
+- 期望薪资：10k~13k
 
-### 实习经历
+### 工作经历	
 
-- 中科院成都信息技术股份有限公司（2017年12月 ~ 2018年3月）
-	
-	需求调研，撰写需求文档与系统概要设计，开发 `DAO` 接口、`HTML` 页面，使用 `Apache POI` 导出 `Word` 模板
+- 成都赛果物联网技术有限公司（2018年6月 ~ 至今）
 
-- 成都赛果物联网技术有限公司（2018年4月 ~ 2018年6月）
-
-	`MySQL` 自动化备份 `Python`  脚本，搭建内网 `git` 和 `maven` 服务器，`otter` 实现数据库跨机房同步，使用 `JavaFX` 开发基于 `adb` 命令的安卓进程调试工具，搭建腾讯视频云小直播后端服务器，开发 `HTTP` 接口，设计并开发微信小程序
+	主要负责公司微信小程序“云撸猫”项目的研发工作：通过分析项目需求独立完成数据库的工作，综合考虑了字段的类型选择以及可变字符的长度限制，最大化的减小存储空间和搜索速度；
+	独立完成后端开发，系统拥有完善的异常处理和详细的日志记录，使用WebSocket对排队中的用户实现令牌发放，接口完全遵守RESTful规范，并与小程序完成联调工作。
+	在工作中，我了解到了Safari和Chrome不同的日期解析方式，也踩过SpringDataRedis键值序列化和SpringDataMongoDB日期转换的巨坑，还学习到了打开SpringWebSocket正确的姿势。
 
 ### 开源项目
 
-- [qiniu](https://gitee.com/code4everything/qiniu)：`JavaFX` 开发的七牛云对象存储管理工具
-- [visual-spider](https://gitee.com/code4everything/visual-spider)：基于 `crawler4j` 使用 `JavaFX` 开发的图形化网络爬虫
+- [wanna-spring](https://gitee.com/code4everything/wanna-spring)：这是一个记录个人信息，采用前后端分离的项目
+- [qiniu](https://gitee.com/code4everything/qiniu)：JavaFX开发的七牛云对象存储管理工具
+- [visual-spider](https://gitee.com/code4everything/visual-spider)：基于crawler4j使用JavaFX开发的图形化网络爬虫
 - [efo](https://gitee.com/code4everything/efo)：使用SSM框架开发的线上文件管理系统，包括文件分享，文件上传，文件下载，远程文件管理
 
 ### 技能清单
 
-- 熟悉 `Java` 开发，`SpringBoot`、`SSH`、`SSM`、`Swagger`框架
-- 熟悉 `Web` 前端开发，`Bootstrap`、`JQuery`、`Vue`、`Layer`框架，微信小程序开发
-- 熟悉 `AJAX`、`RESTful API` 架构，`Maven` 项目构建工具、`Git` 版本控制，数据库设计
-- 了解 `C#`、`Python`，了解 `Redis`、`MongoDB`、`Oracle`，熟悉 `MySQL` 数据库
-- 了解 `Linux` 常用命令，熟悉 `Vim` 编辑，熟悉 `IntelliJ IDEA` 开发工具
+- 后端开发：SpringBoot/Spring/Spring MVC/SpringDataJpa/MyBatis/SpringDataMongoDB/SpringDataRedis
+- 前端开发：Vue/Bootstrap4/JQuery/Axios/ElementUI/VCharts/Layer
+- 开发工具：IntelliJ/SourceTree/Chrome/Postman/微信开发者工具/PuTTy/iTerm2/Maven3/Git/GitFlow
+- 数据库：MySQL/MongoDB/Redis/Oracle
+- 操作系统：Windows10/MacOSX/CentOS
 
 ### 自我评价
 
-热爱编程，崇尚开源，喜欢折腾，`Linux` 爱好者，强迫症，追求编写简洁优雅的代码
+热爱编程，崇尚开源，喜欢折腾，追求编写简洁优雅的代码
 
 ### 致谢 
 
