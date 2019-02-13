@@ -20,7 +20,7 @@
 
 	- 负责公司微信小程序“云撸猫”项目的研发工作：独立设计系统数据库，独立开发整个后端系统
 
-		主要技术：Spring异常处理，Spring路径拦截，七牛云对象存储，SpringDataJpa数据访问，SpringDataMongoDB数据访问，SpringAOP日志记录，SpringDataRedis缓存，Spring定时任务等
+		主要技术：Spring异常处理，Spring路径拦截，七牛云对象存储，SpringDataJpa数据访问，SpringDataMongoDB数据访问，SpringAOP日志记录，SpringDataRedis缓存，SpringMVC控制器，Spring定时任务等
 
 	- 负责公司微信公众号的产品订单页面和支付功能的开发工作
 
@@ -28,17 +28,17 @@
 
 - [个人信息管理系统](https://gitee.com/code4everything/wanna-spring)
 
-	这是一个前后端分离的项目，后端主要使用了Spring Boot、Spring、Spring MVC、Spring Data MongoDB、Spring Data Redis、Swagger等，前端使用了Vue、JQuery、Bootstrap、Element UI、Axios、DayJS、Validator、JSCookie、VCharts等框架。主要包括个人的收入与支出以及报表统计、日程记录和代办事项的功能
+	这是一个前后端分离的项目，后端由Spring全家桶开发，前端使用了Vue、Element UI、Axios、DayJS、VCharts等框架。主要包括个人的收入与支出以及报表统计、日程记录和代办事项的功能
 
-- [线上文件管理系统](https://gitee.com/code4everything/efo)：使用SSM框架开发的线上文件管理系统，包括文件分享，文件上传，文件下载，远程文件管理
+- [线上文件管理系统](https://gitee.com/code4everything/efo)
 
-	后端采用SSM框架技术，纯注解，零XML配置；前端使用了Vue、Bootstrap、JQuery、Layer等框架（传统开发）。实现了文件的上传与下载、文件的后台管理（上传与下载的记录查看、文件管理、权限管理、分类管理等）、远程管理服务器端文件的功能
+	后端采用SSM框架技术，纯注解，零XML配置；前端使用了Vue、Bootstrap、JQuery、Layer等框架（传统开发，非前后端分离）。实现了文件的上传与下载、文件的后台管理（上传与下载的记录查看、文件管理、权限管理、分类管理等）、远程管理服务器端文件的功能
 
 - [可视化爬虫](https://gitee.com/code4everything/visual-spider)
 
 	基于JavaFx和Crawler4j实现的一个非常简单的图形化爬虫，主要功能包括链接过滤、图片与视频的爬取、自定义XPath爬取
 
-- [七牛管理工具](https://gitee.com/code4everything/qiniu)
+- [七牛云管理工具](https://gitee.com/code4everything/qiniu)
 
 	通过阅读七牛云官方SDK文档，基于JavaFX技术开发的图形化七牛云对象存储管理工具，实现了文件的上传与下载、流量统计、正则表达式搜索文件、重命名文件、日志下载等等功能
 
