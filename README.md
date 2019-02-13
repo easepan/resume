@@ -20,7 +20,7 @@
 
 	- 负责公司微信小程序“云撸猫”项目的研发工作：独立设计系统数据库，独立开发整个后端系统
 
-		主要技术：Spring异常处理，Spring路径拦截，七牛云对象存储，SpringDataJpa数据访问，SpringDataMongoDB数据访问，SpringAOP日志记录，SpringDataRedis缓存，SpringMVC控制器，Spring定时任务等
+		主要技术：Spring异常处理，Spring路径拦截，七牛云对象存储，SpringDataJpa数据访问，SpringDataMongoDB数据访问，SpringAOP日志记录，SpringDataRedis缓存，SpringMVC控制器，Spring依赖注入，Spring定时任务等
 
 	- 负责公司微信公众号的产品订单页面和支付功能的开发工作
 
