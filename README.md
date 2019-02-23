@@ -11,16 +11,17 @@
 - 技术博客：[https://blog.csdn.net/qq_26954773](https://blog.csdn.net/qq_26954773)
 - GitHub：[https://github.com/easepan](https://github.com/easepan)
 - 码云：[https://gitee.com/easepan](https://gitee.com/easepan)
-- **期望职位：Java后端工程师**
+- LeetCode：[https://leetcode-cn.com/easepan](https://leetcode-cn.com/easepan)
+- **期望职位：JAVA后端工程师**
 - 期望城市：成都
 
-### 工作经历	
+### 工作经历
 
 - 成都赛果物联网技术有限公司（2018年3月 ~ 至今）
 
 	- 负责公司微信小程序“云撸猫”项目的研发工作：独立设计系统数据库，独立开发整个后端系统
 
-		主要技术：Spring异常处理，Spring路径拦截，七牛云对象存储，SpringDataJpa数据访问，SpringDataMongoDB数据访问，SpringAOP日志记录，SpringDataRedis缓存，SpringMVC控制器，Spring依赖注入，Spring定时任务等
+		主要技术：Spring异常处理，Spring拦截器，七牛云对象存储，SpringDataJpa数据访问，SpringDataMongoDB数据访问，SpringAOP日志记录，SpringDataRedis缓存，SpringMVC控制器，Spring依赖注入，Spring定时任务等
 
 	- 负责公司微信公众号的产品订单页面和支付功能的开发工作
 
@@ -28,11 +29,11 @@
 
 - [个人信息管理系统](https://gitee.com/code4everything/wanna-spring)
 
-	这是一个前后端分离的项目，后端由Spring全家桶开发，前端使用了Vue、Element UI、Axios、DayJS、VCharts等框架。主要包括个人的收入与支出以及报表统计、日程记录和代办事项的功能
+	这是一个前后端分离的项目，后端由Spring全家桶开发，前端使用了Vue、ElementUI、VCharts等框架。主要包括个人的收入与支出和报表统计、日程记录以及代办事项的功能
 
 - [线上文件管理系统](https://gitee.com/code4everything/efo)
 
-	后端采用SSM框架技术，纯注解，零XML配置；前端使用了Vue、Bootstrap、JQuery、Layer等框架（传统开发，非前后端分离）。实现了文件的上传与下载、文件的后台管理（上传与下载的记录查看、文件管理、权限管理、分类管理等）、远程管理服务器端文件的功能
+	后端采用SSM框架技术，纯注解，零XML配置；前端使用了Vue、Bootstrap、JQuery、Layer等框架（传统开发，非前后端分离）。实现了文件的上传与下载、文件的后台管理（包括上传与下载的记录查看、文件管理、权限管理、分类管理等）、远程管理服务器端文件的功能
 
 - [可视化爬虫](https://gitee.com/code4everything/visual-spider)
 
@@ -44,7 +45,7 @@
 
 ### 技能清单
 
-- 后端开发：SpringBoot/Spring/SpringMVC/SpringDataJpa/MyBatis/SpringDataMongoDB/SpringDataRedis
+- 后端开发：SpringBoot/Spring/SpringMVC/MyBatis/SpringSecurity/ApacheShiro
 - 前端开发：Vue/Bootstrap4/JQuery/Axios/ElementUI/VCharts/Layer
 - 开发工具：IntelliJ/SourceTree/Chrome/Postman/微信开发者工具/PuTTy/iTerm2/Maven3/Git/GitFlow
 - 数据库：MySQL/MongoDB/Redis/Oracle
