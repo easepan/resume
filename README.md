@@ -19,9 +19,11 @@
 
 - 成都赛果物联网技术有限公司（2018年6月 ~ 至今）
 
-	- 负责公司微信小程序“云撸猫”项目的研发工作：独立设计系统数据库，独立开发整个后端系统
+	- 负责公司微信小程序“赛果云撸猫”项目的研发工作：独立设计系统数据库，独立开发整个后端系统
 
-		主要技术：Spring异常处理，Spring拦截器，七牛云对象存储，SpringDataJpa数据访问，SpringDataMongoDB数据访问，SpringAOP日志记录，SpringDataRedis缓存，SpringMVC控制器，Spring依赖注入，Spring定时任务等
+		本项目旨在通过微信小程序达到控制线下猫咖里的机器人“胖丁”，从而实现远程逗宠的目的。系统使用了经典的MVC三层模型基于Spring全家桶构建，并将业务数据和日志数据进行了分离，即业务数据采用MySQL数据库，而日志数据采用MongoDB存储，并进一步对热点数据进行了Redis缓存，最后使用Swagger生成标准化的RESTful API接口文档。
+		
+		> 胖丁：赛果公司旗下的一款宠物陪伴机器人，主要包括视频通话、游戏互动、投食等功能
 
 	- 负责公司微信公众号的产品订单页面和支付功能的开发工作
 
@@ -44,12 +46,13 @@
 	通过阅读七牛云官方SDK文档，基于JavaFX技术开发的图形化七牛云对象存储管理工具，实现了文件的上传与下载、流量统计、正则表达式搜索文件、重命名文件、日志下载等等功能
 
 ### 技能清单
-- 后端开发：SpringBoot/Spring/SpringMVC/MyBatis/SpringSecurity/ApacheShiro
-- 前端开发：Vue/Bootstrap4/JQuery/Axios/ElementUI/VCharts/Layer
-- 开发工具：IntelliJ/SourceTree/Chrome/Postman/微信开发者工具/PuTTy/iTerm2/Maven3/Git/GitFlow
-- 数据库：MySQL/MongoDB/Redis/Oracle
-- 操作系统：Windows10/MacOSX/Linux
-- 架构认知：并发编程/消息中间件/微服务/分布式
+
+- 后端开发：SpringBoot、Spring、SpringMVC、MyBatis、SpringSecurity、ApacheShiro、SpringData
+- 前端开发：Vue、Bootstrap4、JQuery、Axios、ElementUI、VCharts、Layer
+- 数据库：MySQL、MongoDB、Redis、Oracle
+- 架构认知：并发编程、消息中间件、微服务、分布式
+- 开发工具：IntelliJ IDEA、SourceTree、Chrome、Postman、微信开发者工具、PuTTy、iTerm2、Maven3、Git、GitFlow
+- 其他：数据结构与算法、英语四级、科学上网
 
 ### 自我评价
 
