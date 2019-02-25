@@ -17,7 +17,7 @@
 
 ### 工作经历
 
-- 成都赛果物联网技术有限公司（2018年3月 ~ 至今）
+- 成都赛果物联网技术有限公司（2018年6月 ~ 至今）
 
 	- 负责公司微信小程序“云撸猫”项目的研发工作：独立设计系统数据库，独立开发整个后端系统
 
@@ -44,12 +44,12 @@
 	通过阅读七牛云官方SDK文档，基于JavaFX技术开发的图形化七牛云对象存储管理工具，实现了文件的上传与下载、流量统计、正则表达式搜索文件、重命名文件、日志下载等等功能
 
 ### 技能清单
-
 - 后端开发：SpringBoot/Spring/SpringMVC/MyBatis/SpringSecurity/ApacheShiro
 - 前端开发：Vue/Bootstrap4/JQuery/Axios/ElementUI/VCharts/Layer
 - 开发工具：IntelliJ/SourceTree/Chrome/Postman/微信开发者工具/PuTTy/iTerm2/Maven3/Git/GitFlow
 - 数据库：MySQL/MongoDB/Redis/Oracle
 - 操作系统：Windows10/MacOSX/Linux
+- 架构认知：并发编程/消息中间件/微服务/分布式
 
 ### 自我评价
 
