@@ -6,12 +6,11 @@
 
 ### 个人信息
 
-- 潘滔/男/1994/四川/汉
-- 本科/信息管理与信息系统/2018届/成都东软学院
+- 基本信息：潘滔/男/1994/四川/汉
+- 学历：本科/信息管理与信息系统/2018届/成都东软学院
 - GitHub：[https://github.com/easepan](https://github.com/easepan)
 - LeetCode：[https://leetcode-cn.com/easepan](https://leetcode-cn.com/easepan)
-- **期望职位：Java后端工程师**
-- 期望城市：成都
+- **求职意向：Java后端工程师/成都**
 
 ### 工作经历
 
