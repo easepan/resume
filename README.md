@@ -29,7 +29,15 @@
 
 - 负责APP后端系统的后期维护，基于第三方接口实现Android和IOS的消息推送
 
-### 4. 开源项目
+### 4. 技能清单
+
+- 基础：通过英语四级，熟悉常用数据结构与算法，熟悉Linux，掌握Go，Java基础扎实，代码规范，了解JVM，熟悉面向对象编程
+- 后端：熟悉Spring系列，MyBatis、Shiro框架，了解多线程并发编程，了解消息中间件，了解SpringCloud、Dubbo进行微服务开发
+- 前端：熟悉JavaScript，熟悉Vue、ElementUI等框架，熟悉前端开发相关技术
+- 数据库：熟悉MySQL、MongoDB、Redis，了解Oracle数据库，熟悉SQL的开发与优化
+- 开发工具：熟悉IDEA开发工具，熟悉Maven项目构建，熟练使用Git和GitFlow进行版本控制
+
+### 5. 开源项目
 
 - [**文件管理系统**](https://github.com/code4everything/efo)
 
@@ -42,14 +50,6 @@
 - [**WeTool工具箱**](https://gitee.com/code4everything/wetool)
 
     WeTool是一款基于JavaFX开发的轻量级、简洁、可插件式扩展的通用可视化工具集。
-
-### 5. 技能清单
-
-- 基础：通过英语四级，熟悉常用数据结构与算法，熟悉Linux，掌握Go，Java基础扎实，代码规范，了解JVM，熟悉面向对象编程
-- 后端：熟悉Spring系列，MyBatis、Shiro框架，了解多线程并发编程，了解消息中间件，了解SpringCloud、Dubbo进行微服务开发
-- 前端：熟悉JavaScript，熟悉Vue、ElementUI等框架，熟悉前端开发相关技术
-- 数据库：熟悉MySQL、MongoDB、Redis，了解Oracle数据库，熟悉SQL的开发与优化
-- 开发工具：熟悉IDEA开发工具，熟悉Maven项目构建，熟练使用Git和GitFlow进行版本控制
 
 ### 6. 自我评价
 
