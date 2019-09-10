@@ -21,7 +21,7 @@
 - 云撸猫是一款通过公司自研的宠物陪伴机器人实现的，全新体验的线上撸猫小程序应用
 - 负责系统数据库设计，业务数据采用MySQL，而写多读少的日志数据则使用MongoDB
 - 负责整个后端系统的设计、开发、部署与维护，包括前端数据处理，业务逻辑层，数据层，网络请求拦截，以及访问统计和全局统一异常处理等
-- 系统基于Spring系列框架构建，拥有较好的并发性，RESTful HTTP接口，支持微信支付，并对热点数据进行了两级缓存处理（GuavaCache和Redis）
+- 系统基于Spring系列框架构建，拥有较好的并发性，RESTful HTTP接口，支持微信支付，并对热点数据进行缓存
 - 后台管理系统采用Shiro进行权限验证，并使用MyBatis和MyBatisPlus简化了CRUD操作
 - 目前仅与成都地区十余家猫咖进行了合作，为公司带来了大批量的宠物陪护机器人购买用户
 
@@ -32,20 +32,20 @@
 ### 4. 技能清单
 
 - 基础：通过英语四级，熟悉常用数据结构与算法，熟悉Linux，掌握Go，Java基础扎实，代码规范，了解JVM，熟悉面向对象编程
-- 后端：熟悉Spring系列，MyBatis、Shiro框架，了解多线程并发编程，了解消息中间件，了解SpringCloud、Dubbo进行微服务开发
+- 后端：熟悉Spring系列，MyBatis、Shiro框架，了解多线程并发编程，了解SpringCloud进行微服务开发，了解消息中间件
 - 前端：熟悉JavaScript，熟悉Vue、ElementUI等框架，熟悉前端开发相关技术
 - 数据库：熟悉MySQL、MongoDB、Redis，了解Oracle数据库，熟悉SQL的开发与优化
 - 开发工具：熟悉IDEA开发工具，熟悉Maven项目构建，熟练使用Git和GitFlow进行版本控制
 
 ### 5. 开源项目
 
-- [**文件管理系统**](https://github.com/code4everything/efo)
+- [**EFO文件管理系统**](https://github.com/code4everything/efo)
 
-    一个基于SpringBoot和Vue构建的文件分享系统，包括文件的上传与下载，文件的权限管理，远程文件管理等功能。
+    EFO是一个基于SpringBoot和Vue构建的文件分享系统，包括文件的上传与下载，文件的权限管理，远程文件管理等功能。
 
-- [**WEB开发工具库**](https://github.com/code4everything/boot-surface)
+- [**BootSurface工具库**](https://github.com/code4everything/boot-surface)
 
-    这是一个依赖于SpringBoot框架，常用于构建简单WEB项目的工具库，公共化了一些简单繁琐而又必要的代码，已发布至Maven中央仓库。
+    BootSurface是一个依赖于SpringBoot框架，常用于轻量级WEB项目的工具库，其公共化了一些简单繁琐而又必要的代码，已发布至Maven中央仓库。
     
 - [**WeTool工具箱**](https://gitee.com/code4everything/wetool)
 
