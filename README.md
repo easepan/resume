@@ -5,37 +5,38 @@
 - Email：easepan@gmail.com
 
 ### 2. 个人信息
+
 - 基本信息：潘滔/男/1994/四川/汉
 - 学历：本科/信息管理与信息系统/成都东软学院
 - GitHub：[https://github.com/easepan](https://github.com/easepan)
-- LeetCode：[https://leetcode-cn.com/easepan](https://leetcode-cn.com/easepan)
 - **求职意向：后端工程师/成都**
-- 工作经验：一年
+- 工作经验：两年（含一年实习）
 
 ### 3. 工作经历
 
-**成都赛果物联网技术有限公司 —— 2018.8月 - 2019.7月**
+**成都赛果物联网技术有限公司 —— 2017.9月 - 2019.7月**
 
-##### 1. “赛果云撸猫”微信小程序后端系统的设计与开发 | 2018.8-2019.7
+##### 1. 胖丁APP
 
-- 云撸猫是一款通过公司自研的宠物陪伴机器人实现的，全新体验的线上撸猫小程序应用
-- 负责系统数据库设计，业务数据采用MySQL，而写多读少的日志数据则使用MongoDB
-- 负责整个后端系统的设计、开发、部署与维护，包括前端数据处理，业务逻辑层，数据层，网络请求拦截，以及访问统计和全局统一异常处理等
-- 系统基于Spring系列框架构建，拥有较好的并发性，RESTful HTTP接口，支持微信支付，并对热点数据进行缓存
-- 后台管理系统采用Shiro进行权限验证，并使用MyBatis和MyBatisPlus简化了CRUD操作
-- 目前仅与成都地区十余家猫咖进行了合作，为公司带来了大批量的宠物陪护机器人购买用户
+作为该项目后端系统的后期维护者之一，首先负责写Python脚本实现MySQL数据库的自动定时备份，而后负责了系统数据库的跨机房同步，主要用到了阿里巴巴开源的otter和canal同步解决方案。
+由于该项目包括众多子模块，后期需要分离开发，所以我又负责搭建了一个公司的Maven私服，我负责其中一个模块的维护，主要完成了基于第三方（TUTK）接口的Android和IOS的消息推送功能，
+并对项目使用SpringBoot进行了重构，使用RabbitMQ与其他模块服务进行通信。
 
-##### 2. 胖丁APP后端系统 | 2019.6-2019.7
+##### 2. “赛果云撸猫”微信小程序（包括公众号）
 
-- 负责APP后端系统的后期维护，基于第三方接口实现Android和IOS的消息推送
+我作为这个项目后端系统唯一的开发人员，负责了整合后端系统的设计、开发、部署与维护，借助SpringBoot和DataJpa完成了复杂业务逻辑开发，包括微信支付。
+对请求的拦截和全局异常的统一处理，并打印详细的日志信息，以及热点数据的二级缓存，学习并实践了Synchronized和Lock的并发编程，大大的提高了系统的安全性与可用性。
+并且为了提高图片、音频等静态资源的访问速度，我使用了七牛云对象存储作为CDN层统一分发，并统一使用JSON格式与前端进行交互，采用RESTful HTTP接口，利用Swagger框架自动生成接口文档，
+同时为了小程序和公众号的开发与调试，我还使用了内网穿透工具将局域网暴露至公网。最后使用SpringBoot、Shiro、MyBatis以及MyBatisPlus和前端一起为此系统开发了一个后台管理系统。
+项目严格遵守阿里巴巴Java开发手册规范，代码干净整洁，可维护性好，同时还使用Sonar进行代码质量管理。
 
 ### 4. 技能清单
 
-- 基础：通过英语四级，熟悉常用数据结构与算法，熟悉Linux，掌握Go，Java基础扎实，代码规范，了解JVM，熟悉面向对象编程
-- 后端：熟悉Spring系列，MyBatis、Shiro框架，了解多线程并发编程，了解SpringCloud进行微服务开发，了解消息中间件
-- 前端：熟悉JavaScript，熟悉Vue、ElementUI等框架，熟悉前端开发相关技术
+- 基础：CET-4，熟悉常用数据结构与算法，熟悉Linux，熟悉Go，熟悉Java，基础扎实，代码规范，了解JVM，熟悉面向对象编程
+- 后端：熟悉Spring系列框架，熟悉MyBatis、Shiro框架，熟悉多线程并发编程，掌握SpringCloud微服务开发，掌握消息中间件
 - 数据库：熟悉MySQL、MongoDB、Redis，了解Oracle数据库，熟悉SQL的开发与优化
-- 开发工具：熟悉IDEA开发工具，熟悉Maven项目构建，熟练使用Git和GitFlow进行版本控制
+- 运维：熟悉各种服务的搭建，熟悉Docker容器化技术
+- 开发工具：熟悉IDEA开发工具，熟悉Maven和Gradle项目构建，熟练使用Git和GitFlow进行版本控制
 
 ### 5. 开源项目
 
@@ -45,15 +46,17 @@
 
 - [**BootSurface工具库**](https://github.com/code4everything/boot-surface)
 
-    BootSurface是一个依赖于SpringBoot框架，常用于轻量级WEB项目的工具库，其公共化了一些简单繁琐而又必要的代码，已发布至Maven中央仓库。
+    BootSurface是一个依赖于SpringBoot框架，常用于构建轻量级WEB项目的工具库，项目公共化了一些简单繁琐而又必要的代码，已发布至Maven中央仓库。
     
 - [**WeTool工具箱**](https://gitee.com/code4everything/wetool)
 
-    WeTool是一款基于JavaFX开发的轻量级、简洁、可插件式扩展的通用可视化工具集。
+    WeTool是一款基于JavaFX开发的轻量级、简洁、可插件式扩展的通用可视化工具箱。
+
+> 更多开源项目可访问[我的主页](https://gitee.com/easepan)以及[我的组织](https://gitee.com/code4everything)
 
 ### 6. 自我评价
 
-热爱技术，喜欢折腾，崇尚开源，熟悉前端，擅长服务端开发，Google和StackOverflow是我解决技术问题的主要途径。
+热爱技术，喜欢折腾，崇尚开源，乐于分享，擅长服务端开发，Google和StackOverflow是我解决技术问题的主要途径。
 
 ### 7. 致谢
 
