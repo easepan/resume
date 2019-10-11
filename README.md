@@ -36,13 +36,13 @@
 - 后端：熟悉Spring系列框架，熟悉MyBatis、Shiro框架，熟悉多线程并发编程，掌握SpringCloud微服务开发，掌握消息中间件
 - 数据库：熟悉MySQL、MongoDB、Redis，了解Oracle数据库，熟悉SQL的开发与优化
 - 运维：熟悉各种服务的搭建，熟悉Docker容器化技术
-- 开发工具：熟悉IDEA开发工具，熟悉Maven和Gradle构建工具，熟练使用Git和GitFlow进行版本控制
+- 开发工具：熟悉IDEA开发工具，熟悉Maven和Gradle项目构建工具，熟练使用Git和GitFlow进行版本控制
 
 ### 5. 开源项目
 
-- [**EFO**](https://github.com/code4everything/efo)：基于SpringBoot和Vue构建的文件分享系统，包括文件的上传与下载，文件的权限管理，远程文件管理等功能。200 Star, 100 Fork
+- [**EFO**](https://github.com/code4everything/efo)：基于SpringBoot和Vue构建的文件分享系统。200 Stars, 100 Forks
 
-- [**BootSurface**](https://github.com/code4everything/boot-surface)：工具库，常用于构建轻量级WEB项目，项目公共化了一些简单繁琐而又必要的代码，已发布至Maven中央仓库。
+- [**BootSurface**](https://github.com/code4everything/boot-surface)：可用于构建轻量级小型WEB项目的工具库。
     
 - [**WeTool**](https://gitee.com/code4everything/wetool)：基于JavaFX开发的轻量级、简洁、可插件式扩展的通用工具箱。
 
