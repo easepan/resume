@@ -42,8 +42,8 @@
 
 ### 5. 开源项目
 
-- [**WeTool**](https://gitee.com/code4everything/wetool)：基于JavaFX开发的轻量级、简洁、可插件式扩展的通用工具箱（获Gitee推荐）。
-- [**hutool**](https://gitee.com/loolly/hutool)：GVP项目Hutool的贡献者。
+- [**WeTool**](https://gitee.com/code4everything/wetool)：基于JavaFX开发的轻量级、简洁、可插件式扩展的通用工具箱（获码云推荐）。
+- [**hutool**](https://gitee.com/loolly/hutool)：参与并贡献了码云GVP Hutool项目。
 
 ### 6. 自我评价
 
