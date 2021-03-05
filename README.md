@@ -8,7 +8,7 @@
 
 - 基本信息：潘滔/男/1994/四川/汉
 - 学历：本科/信息管理与信息系统/成都东软学院
-- 工作经验：两年半
+- 工作经验：三年
 - GitHub：[https://github.com/easepan](https://github.com/easepan)
 - **求职意向：后端工程师/成都**
 
