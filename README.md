@@ -44,7 +44,7 @@
 
 ### 5. 开源项目
 
-- [**WeTool**](https://gitee.com/code4everything/wetool)：基于JavaFX开发的轻量级、简洁、可插件式扩展的通用工具箱（获码云推荐）。
+- [**wetool**](https://gitee.com/code4everything/wetool)：基于JavaFX开发的轻量级、简洁、可插件式扩展的通用工具箱（获码云推荐）。
 - [**hutool**](https://gitee.com/loolly/hutool)：参与贡献了该项目。
 
 ### 6. 自我评价
