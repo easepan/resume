@@ -46,7 +46,7 @@
 
 ### 4. 技能清单
 
-- 基础：CET4，能阅读英文资料，熟悉常用数据结构与算法，熟悉Linux，熟悉Java、Kotlin，了解前端、GO、Python、Rust
+- 基础：CET4，能阅读英文资料，熟悉常用数据结构与算法，熟悉Linux，熟悉Java、Kotlin，了解前端、Go、Python、Rust
 - 后端：熟悉Spring系列框架，熟悉MyBatis、Shiro框架，熟悉多线程并发编程，熟悉SpringCloud分布式微服务开发，熟悉消息中间件
 - 数据库：熟悉MySQL、MongoDB、Redis，熟悉SQL的开发与优化
 - 运维：熟悉各种服务的搭建，熟悉Docker容器化技术，熟悉Nginx反向代理，熟悉Jenkins自动化部署，Jmeter压测
