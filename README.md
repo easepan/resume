@@ -10,13 +10,13 @@
 - 学历：本科/信息管理与信息系统/成都东软学院
 - 工作经验：六年
 - GitHub：[https://github.com/easepan](https://github.com/easepan)
-- **求职意向：成都/后端/全栈/管理/技术合伙**
+- **求职意向：成都/后端/全栈/管理**
 
 ### 3. 工作经历
 
 #### 成都酷捷合能信息技术有限责任公司 ——2023.05月 - 至今
 
-个人创业项目，使用JetbrainsComposeMultiplatform全职独立开发了一款类uTools、Alfred、Raycast的桌面端效率工具，从产品、设计、前端、后端、运维、运营全一个人完成（但是项目推广失败）。
+个人创业项目，使用JetbrainsComposeMultiplatform全职独立开发了一款类uTools、Alfred、Raycast的桌面端效率工具，从产品、设计、前端、后端、运维、运营全部一个人完成（但是项目推广失败）。
 
 > 项目地址：[https://myrest.top/zh-cn](https://myrest.top/zh-cn)。
 
