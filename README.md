@@ -10,8 +10,8 @@
 - 学历：本科/信息管理与信息系统/成都东软学院
 - 工作经验：六年
 - GitHub：[https://github.com/easepan](https://github.com/easepan)
-- LeetCode：[https://leetcode.cn/u/easepan/](https://leetcode.cn/u/easepan/)
-- **求职意向：成都/后端/全栈/管理**
+- LeetCode：[https://leetcode.cn/u/easepan](https://leetcode.cn/u/easepan)
+- **求职意向：成都/后端/全栈/技术/管理**
 
 ### 3. 工作经历
 
@@ -51,7 +51,7 @@
 - 后端：熟悉Spring系列框架，熟悉MyBatis、Shiro框架，熟悉多线程并发编程，熟悉SpringCloud分布式微服务开发，熟悉消息中间件
 - 数据库：熟悉MySQL、MongoDB、Redis，熟悉SQL的开发与优化
 - 运维：熟悉各种服务的搭建，熟悉Docker容器化技术，熟悉Nginx反向代理，熟悉Jenkins自动化部署，Jmeter压测
-- 开发工具：熟悉IDEA开发工具，熟悉Maven和Gradle项目构建工具，熟练使用Git和GitFlow进行版本控制
+- 开发工具：熟悉IDEA开发工具，熟悉Maven和Gradle构建工具，熟练Git和GitFlow版本控制
 
 ### 5. 开源项目
 
