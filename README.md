@@ -17,11 +17,9 @@
 
 #### 成都酷捷合能信息技术有限责任公司 ——2023.05月 - 至今
 
-作为一名独立开发者，独立开发了一款类uTools、Alfred、Raycast的桌面端效率工具RunFlow，旨在提高用户的工作效率。自主完成从需求分析到产品原型，到UI设计、开发、发布全过程，打造直观高效的用户体验。使用JetBrains Compose Multiplatform构建跨平台桌面应用，实现简洁、流畅的用户界面。使用传统的HTML/JS/CSS开发Web网页端，可以下载应用、购买许可证、阅读资讯、搜索插件等，后端使用SpringBoot、Data Jpa、MySQL等技术栈，以及使用Redis实现限流。
+作为一名独立开发者，独立开发了一款类uTools、Alfred、Raycast的桌面端效率工具RunFlow([https://myrest.top/zh-cn](https://myrest.top/zh-cn))，旨在提高用户的工作效率。自主完成从需求分析到产品原型，到UI设计、开发、发布全过程，打造直观高效的用户体验。使用JetBrains Compose Multiplatform构建跨平台桌面应用，实现简洁、流畅的用户界面。使用传统的HTML/JS/CSS开发Web网页端，可以下载应用、购买许可证、阅读资讯、搜索插件等，后端使用SpringBoot、Data Jpa、MySQL等技术栈，以及使用Redis实现限流。
 
 这使得我能够有效规划和管理项目周期、设计灵活的技术架构，能保持思考驱动产品创新，能协调产品设计、技术实现和市场需求之间的关系，确保整体目标的一致性。
-
-> 项目地址：[https://myrest.top/zh-cn](https://myrest.top/zh-cn)。
 
 #### 成都光厂创意科技有限公司 —— 2021.04月 - 2023.05月
 
