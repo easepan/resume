@@ -11,7 +11,7 @@
 - 工作经验：六年
 - GitHub：[https://github.com/easepan](https://github.com/easepan)
 - LeetCode：[https://leetcode.cn/u/easepan](https://leetcode.cn/u/easepan)
-- **求职意向：成都/后端/技术/管理**
+- **求职意向：成都/后端/全栈/技术**
 
 ### 3. 工作经历
 
