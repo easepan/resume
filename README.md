@@ -11,13 +11,13 @@
 - 工作经验：六年
 - GitHub：[https://github.com/easepan](https://github.com/easepan)
 - LeetCode：[https://leetcode.cn/u/easepan](https://leetcode.cn/u/easepan)
-- **求职意向：成都/后端/全栈/技术/管理**
+- **求职意向：成都/后端/技术/管理**
 
 ### 3. 工作经历
 
 #### 成都酷捷合能信息技术有限责任公司 ——2023.05月 - 2024.07月
 
-作为一名独立开发者，独立开发了一款类uTools、Alfred、Raycast的桌面端效率工具RunFlow([https://myrest.top/zh-cn](https://myrest.top/zh-cn))，旨在提高用户的工作效率。自主完成从需求分析到产品原型，到UI设计、开发、发布全过程，打造直观高效的用户体验。使用JetBrains Compose Multiplatform构建跨平台桌面应用，实现简洁、流畅的用户界面。使用传统的HTML/JS/CSS开发Web网页端，可以下载应用、购买许可证、阅读资讯、搜索插件等，后端使用SpringBoot、DataJPA、MySQL等技术栈，以及Redis实现限流。
+作为一名独立开发者，独立开发了一款类uTools、Alfred、Raycast的桌面端效率工具RunFlow([https://myrest.top/zh-cn](https://myrest.top/zh-cn))，旨在提高用户的工作效率。自主完成从需求分析到产品原型，到UI设计、开发、发布全过程，打造直观高效的用户体验。使用JetBrains Compose Multiplatform构建跨平台桌面应用，实现简洁、流畅的用户界面。使用了React开发Web网页端，可以下载应用、购买许可证、阅读资讯、搜索插件等，后端使用SpringBoot、DataJPA、MySQL等技术栈，以及Redis实现限流。
 
 这使得我能够有效规划和管理项目周期、设计灵活的技术架构，能保持思考驱动产品创新，能协调产品设计、技术实现和市场需求之间的关系，确保整体目标的一致性。
 
@@ -47,7 +47,7 @@
 
 ### 4. 技能清单
 
-- 基础：CET4，能阅读英文资料，熟悉常用数据结构与算法，熟悉Linux，熟悉Java、Kotlin，了解前端、Go、Python、Rust
+- 基础：CET4，能阅读英文资料，熟悉常用数据结构与算法，熟悉Web前端，熟悉Linux，熟悉Java、Kotlin，了解Go、Python、Rust
 - 后端：熟悉Spring系列框架，熟悉MyBatis、Shiro框架，熟悉多线程并发编程，熟悉SpringCloud分布式微服务开发，熟悉消息中间件
 - 数据库：熟悉MySQL、MongoDB、Redis，熟悉SQL的开发与优化
 - 运维：熟悉各种服务的搭建，熟悉Docker容器化技术，熟悉Nginx反向代理，熟悉Jenkins自动化部署，Jmeter压测
